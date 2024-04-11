@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**AnhOffice/AnhOffice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello, I'm Tran Hoai Anh, a student at FPT University, specializing in Software Engineering. My passion lies in exploring the intricate world of technology, particularly in software development. I aspire to become a proficient Full Stack Developer and Tester, equipped with the skills to design, develop, and test robust software solutions. With a strong foundation in software engineering principles and a keen interest in staying updated with the latest technologies, I am excited to contribute to the ever-evolving field of technology.
 
 - 🔭 I’m currently working on ...
@@ -13,4 +8,3 @@ Hello, I'm Tran Hoai Anh, a student at FPT University, specializing in Software 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
