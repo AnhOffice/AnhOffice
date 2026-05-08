@@ -63,23 +63,6 @@ I'm a **recent Software Engineering graduate** from FPT University (GPA: 3.0/4.0
 
 ---
 
-## 💼 Experience Highlights
-
-**🏠 Viet Home Service — Capstone Project** *(Sep – Dec 2025)*
-> Fullstack Developer & QA Team Lead · FPT University Can Tho
-- Built RESTful APIs with **ASP.NET Core** and frontend with **ReactJS / Razor Pages**
-- Implemented Cart & Booking, VNPay payment, real-time chat, and order management modules
-- Designed & executed **700+ test cases** across Functional, Integration, and E2E testing
-- Deployed on **Viettel VPC** using Agile/Scrum workflow
-
-**🐾 PetShop Management System — Internship** *(Sep – Dec 2024)*
-> Java Developer · FPT Software Academy Ho Chi Minh
-- Developed Cart & Checkout and Order Management APIs using **Java**
-- Integrated **VNPay** payment gateway
-- 🏆 Final GPA: **84/100** · Soft Skills: **95/100** · Discipline: **100/100**
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
