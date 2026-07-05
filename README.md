@@ -32,7 +32,7 @@ I'm a **recent Software Engineering graduate** from FPT University (GPA: 3.0/4.0
 ## 📱 Featured Project: Sổ Nông 🌾 (Mobile App)
 
 **Sổ Nông** là ứng dụng di động hỗ trợ người nông dân số hóa nhật ký sản xuất và quản lý tài chính trang trại hiệu quả. Đây là dự án cá nhân được tôi tối ưu hóa trải nghiệm người dùng cùng kiến trúc **Offline-first** mạnh mẽ.
-
+- 🏷️ **Phiên bản hiện tại:** `v1.0.0` (Phiên bản đầu tiên mới phát hành)
 ### 🌟 Các chức năng nổi bật:
 - 📅 **Nhật ký canh tác điện tử:** Ghi chép tiến độ chăm sóc nông trại hàng ngày và chụp ảnh lưu lại lịch sử canh tác.
 - ⚖️ **Đồng bộ Cân Bluetooth:** Tự động kết nối và nhận dữ liệu cân trực tiếp từ cân điện tử qua Bluetooth Low Energy (BLE) khi thu hoạch.
